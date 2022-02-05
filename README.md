@@ -1,4 +1,4 @@
-# Markdown It Pandoc Flavored Markdown
+# Markdown It PFM
 
 This package is a preset ofr markdown-it to approximate Pandoc Flavored Markdown.
 
@@ -17,7 +17,7 @@ $ npm i markdown-it-pfm
 
 ```javascript
 const md = require('markdown-it')()
-md.use('markdown-it-pandoc')
+md.use('markdown-it-pfm')
 ```
 
 ## Copyright and License
