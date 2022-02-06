@@ -32,7 +32,7 @@
     "markdown-it-footnote": "^3.0.3",
     "markdown-it-gridtables": "^0.3.0",
     "markdown-it-implicit-figures": "^0.10.0",
-    "markdown-it-mathjax3": "^4.2.5",
+    "markdown-it-mathjax3": "^4.3.1",
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
     "markdown-it-task-lists": "^2.1.1"
